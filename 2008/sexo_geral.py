@@ -8,7 +8,7 @@ with open ('PES2008.TXT', 'rt') as myfile:  # Open file lorem.txt for reading te
         if myline[posicao] == '4':
             feminino += 1
 
-    print('Masculino')
+    print('Masculino 2008')
     print(masculino)
     print('----------')
     print('Feminino')
