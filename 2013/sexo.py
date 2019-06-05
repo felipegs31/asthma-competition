@@ -7,9 +7,8 @@ with open ('without_asthma.txt', 'rt') as myfile:  # Open file lorem.txt for rea
         if myline[37] == '2':
             feminino += 1
 
-    print('masculino SEM ASMA')
+    print('SEM ASMA')
     print(masculino/202926*100)
-    print('feminino SEM ASMA')
     print(feminino/202926*100)
 
 with open ('with_asthma.txt', 'rt') as myfile:  # Open file lorem.txt for reading text
@@ -21,9 +20,8 @@ with open ('with_asthma.txt', 'rt') as myfile:  # Open file lorem.txt for readin
         if myline[37] == '2':
             feminino += 1
 
-    print('masculino COM ASMA')
+    print('COM ASMA')
     print(masculino/2620*100)
-    print('feminino COM ASMA')
     print(feminino/2620*100)
 
 
