@@ -23,3 +23,7 @@ PNAD - Pesquisa Nacional por Amostra de Domicílios: Suplemento Saúde - 2008
 Dashboard Preview
 
 https://cdn1.imggmi.com/uploads/2019/6/12/7aff8addb0c1be6a3b58c5ec4c12dcd0-full.png
+
+Tableau Realtime Dashboard
+
+https://public.tableau.com/profile/felipe.scandiffio#!/vizhome/Dashboard_Asthma/Painel1?publish=yes
